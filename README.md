@@ -18,4 +18,6 @@ Tunnel Update (Will add zrok and maybe ngrok support inside of the program)
 
 Modloader Update(s) (Adding Paper and Vanilla support. Maybe also Fabric)
 
+Modrinth Update (Adding support for .mrpack files)
+
 +Feature Updates
