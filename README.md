@@ -8,13 +8,8 @@ Ready to use atribution 1.0:
 This project is build appon or uses code of Papadu Studios free Minecraft Server management solution ForgePanel
 github.com/papadu-studios/ForgePanel
 
-
 Roadmap:
-
 Beta Release 0.1 (Will only contain Basic functions)
-
 Tunnel Update (Will add zrok and maybe ngrok support inside of the program)
-
 Modloader Update(s) (Adding Paper and Vanilla support. Maybe also Fabric)
-
 +Feature Updates
